@@ -1,0 +1,5 @@
+preprod
+Basic Qzg4MjVlNzhkZjcyYzFmZWYxYzNhMDhiYWNjZjQzMzg0YTNmMzg0Mzg6U05Uc0xVcFhkTGltaGtrZ3diSzBuMTkxTnBlYzlxQkIxYXFBbWJ2Tjk0V0d0dHlEU05LY3UxUnpLV2ZqVXF0Vw==
+
+<!-- First line is the executing environment, "prod" or "preprod". -->
+<!-- Second line is the basic token of the application. -->

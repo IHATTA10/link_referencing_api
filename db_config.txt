@@ -1,0 +1,7 @@
+jdbc:mysql://127.0.0.1:3306/links_references?zeroDateTimeBehavior=CONVERT_TO_NULL&serverTimezone=UTC
+root
+
+
+<!-- First Line --> connexion Url for database. -->
+<!-- Second Line --> connexion UserName for database. -->
+<!-- First Line --> connexion PassWord for database. -->

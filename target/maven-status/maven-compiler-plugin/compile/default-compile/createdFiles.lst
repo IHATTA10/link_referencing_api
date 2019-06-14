@@ -1,0 +1,17 @@
+com\decathlon\gateway\Link_referencing_api\ressources\LinksSearch.class
+com\decathlon\gateway\Link_referencing_api\utils\JsonWriter.class
+com\decathlon\gateway\Link_referencing_api\ressources\LinksDelete.class
+com\decathlon\gateway\Link_referencing_api\LinkReferencingApiiApplication.class
+com\decathlon\gateway\Link_referencing_api\utils\sqlUtils.class
+com\decathlon\gateway\Link_referencing_api\ressources\Links.class
+com\decathlon\gateway\Link_referencing_api\ressources\LinksAny.class
+com\decathlon\gateway\Link_referencing_api\ressources\LinksRegister.class
+com\decathlon\gateway\Link_referencing_api\configs\SwaggerConfig.class
+com\decathlon\gateway\Link_referencing_api\ressources\Ping.class
+com\decathlon\gateway\Link_referencing_api\ressources\HealthCheck.class
+com\decathlon\gateway\Link_referencing_api\utils\Link.class
+com\decathlon\gateway\Link_referencing_api\ressources\LoadDump.class
+com\decathlon\gateway\Link_referencing_api\ressources\LinksUpdate.class
+com\decathlon\gateway\Link_referencing_api\utils\Authentificathor.class
+com\decathlon\gateway\Link_referencing_api\utils\Dump.class
+com\decathlon\gateway\Link_referencing_api\utils\Status.class
